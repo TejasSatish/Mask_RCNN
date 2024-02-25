@@ -6,7 +6,7 @@ ipython-genutils==0.2.0
 ipython-sql==0.5.0
 keras==2.14.0
 matplotlib==3.7.1
-numpy==1.23.5
+numpy==1.23.1
 opencv-contrib-python==4.8.0.76
 opencv-python==4.8.0.76
 pillow==9.4.0
